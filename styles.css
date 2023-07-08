@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+div {
+	background-color: #eeeeee;
+	width: 25rem;
+	text-align: center;
+	height: 30rem;
+}
+
+div p {
+	text-align: center
+}
+
+
+img {
+	margin-top: 30px
+}
+
+p {
+	font-size: 25px;
+	margin-top: none;
+	
+}
+
+button a{
+	font-size: 25px;
+}
+button{
+	background-color: lightcoral;
+	width: 150px;
+	height: 50px;
+	padding: 10px;
+	border: none;
+	color:white;
+	border-radius: 10px;
+}
